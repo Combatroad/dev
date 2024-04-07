@@ -1,2 +1,3 @@
 # dev
-my private places
+Hello, there!
+my private place!
